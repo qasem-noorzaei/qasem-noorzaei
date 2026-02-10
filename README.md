@@ -1,7 +1,7 @@
 
 <img align="right" alt="qasem" width = "400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 
-## 👋 Hello there, I'm a Frontend Developer
+## 👋 Hello there, My Name is QASEM and I'm a Frontend Developer
 
 💻 **Frontend Developer** passionate about crafting modern, responsive, and intuitive web interfaces.
 
