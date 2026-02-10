@@ -1,38 +1,9 @@
-## 👋 Hello there , My Name Is Qasem And I'm a Frontend Developer
+<h1 align="center">Hi 👋, I'm Qasem</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-💻 **Frontend Developer** passionate about building modern, responsive, and user-friendly interfaces.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I care deeply about **clean code**, **great UI/UX**, and writing interfaces that feel smooth and intuitive. I’m known as someone who is **honest**, **reliable**, and **highly time-conscious** — I respect deadlines as much as quality.
-
----
-
-### 🚀 Skills & Technologies
-
-* **HTML**
-* **CSS**
-* **Tailwind CSS**
-* **JavaScript**
-* **React**
-
----
-
-### 🎯 What I Focus On
-
-* Building responsive and modern web interfaces
-* Writing clean, maintainable frontend code
-* Creating user-friendly experiences
-* Continuous learning and improvement
-
----
-
-### 🤝 Work Ethic
-
-* ⏱️ Strong respect for time and deadlines
-* 🤍 Honest and transparent in collaboration
-* 🔍 Detail-oriented and quality-focused
-
----
-
-✨ Always learning, always improving, and always aiming to deliver better user experiences.
-
-📌 *Let’s build something clean and meaningful.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
