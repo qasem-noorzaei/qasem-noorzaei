@@ -1,3 +1,8 @@
+
+<img align="right" alt="qasem" width = "450" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+<img align="top" alt="qasem" width = "400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
+
 ## 👋 Hello there, I'm a Frontend Developer
 
 💻 **Frontend Developer** passionate about crafting modern, responsive, and intuitive web interfaces.
