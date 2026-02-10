@@ -1,7 +1,5 @@
 
-<img align="right" alt="qasem" width = "450" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-<img align="top" alt="qasem" width = "400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
+<img align="right" alt="qasem" width = "400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 
 ## 👋 Hello there, I'm a Frontend Developer
 
@@ -45,3 +43,11 @@ I care deeply about **clean code**, **great UI/UX**, and creating experiences th
 ✨ Always learning, improving, and delivering better user experiences.  
 
 📌 *Let’s build something clean, meaningful, and impactful.*
+
+
+
+
+<img align="right" alt="qasem" width = "450" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+
+
