@@ -1,36 +1,40 @@
-<h1 align="center">Hi 👋, I'm Qasem</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan</h3>
+## 👋 Hi, I'm a Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qasem-noorzaei&label=Profile%20views&color=0e75b6&style=flat" alt="qasem-noorzaei" /> </p>
+💻 **Frontend Developer** passionate about crafting modern, responsive, and intuitive web interfaces.
 
-- 🔭 I’m currently working on [Complete school management project](https://github.com/qasem-noorzaei)
+I care deeply about **clean code**, **great UI/UX**, and creating experiences that feel smooth and natural. I’m known for being **honest**, **reliable**, and **highly time-conscious** — respecting deadlines as much as quality.
 
-- 🌱 I’m currently learning **Frontend And React**
+---
 
-- 🤝 I’m looking for help with **My friends projects**
+### 🚀 Skills & Technologies
 
-- 👨‍💻 All of my projects are available at [https://github.com/qasem-noorzaei](https://github.com/qasem-noorzaei)
-
-- 📝 I regularly write articles on [https://t.me/QASEM_1379](https://t.me/QASEM_1379)
-
-- 💬 Ask me about **react and JavaScript**
-
-- 📫 How to reach me **qasem1379g@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/qasem-noorzaei](https://github.com/qasem-noorzaei)
-
-- ⚡ Fun fact **I think I'm funny😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/qasem_1379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qasem_1379" height="30" width="40" /></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasem-noorzaei&show_icons=true&locale=en&layout=compact" alt="qasem-noorzaei" /></p>
+### 🎯 Focus Areas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasem-noorzaei&show_icons=true&locale=en" alt="qasem-noorzaei" /></p>
+* Building **responsive**, **modern**, and **accessible** web interfaces  
+* Writing **clean, maintainable frontend code**  
+* Designing **user-friendly experiences**  
+* **Continuous learning** and staying up-to-date with frontend trends  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasem-noorzaei&" alt="qasem-noorzaei" /></p>
+---
+
+### 🤝 Work Ethic
+
+* ⏱️ Strong respect for **time and deadlines**  
+* 🤍 Honest and transparent in collaboration  
+* 🔍 **Detail-oriented** and quality-focused  
+
+---
+
+✨ Always learning, improving, and delivering better user experiences.  
+
+📌 *Let’s build something clean, meaningful, and impactful.*
