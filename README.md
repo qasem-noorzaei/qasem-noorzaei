@@ -8,10 +8,6 @@ I care deeply about **clean code**, **great UI/UX**, and creating experiences th
 
 ### 🚀 Skills & Technologies
 
-### 🚀 Skills & Technologies
-
-### 🚀 Skills & Technologies
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
