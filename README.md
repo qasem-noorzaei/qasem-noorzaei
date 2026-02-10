@@ -1,4 +1,4 @@
-## 👋 Hi, I'm a Frontend Developer
+## 👋 Hello there, I'm a Frontend Developer
 
 💻 **Frontend Developer** passionate about crafting modern, responsive, and intuitive web interfaces.
 
